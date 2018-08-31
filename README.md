@@ -1,5 +1,4 @@
-# Python bindings for the logicle function
+# data transformation functions
 
-Very small package to apply logicle to arbitrary dataframes.
-
-Binding logicle will use cffi.
+Small library implementing a set of transformation functions for flow cytometry
+data.
